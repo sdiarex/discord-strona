@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!Dołącz już dziś>
 <html lang="pl">
 <head>
   <meta charset="UTF-8">
